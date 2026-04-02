@@ -37,7 +37,7 @@ const NAV_LINKS = [
       { name: 'Energy Audits', href: '/services/audit', icon: ShieldCheck },
     ],
   },
-  { name: 'Contact', href: '/contact', icon: Phone },
+  { name: 'Contact', href: '/Contact', icon: Phone },
 ];
 
 export default function Header() {
